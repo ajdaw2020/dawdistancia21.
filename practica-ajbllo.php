@@ -4,10 +4,10 @@
 *  @file test.php
 *  @brief Breve descripción
 * Pequeña documentación del archivo
-* @author Gaspar
+* @author Gaspar Del Rio Triana
 * @version 2.0
 * @date Marzo 2010
-*
+*	
 *
 *******************************************************/
 
